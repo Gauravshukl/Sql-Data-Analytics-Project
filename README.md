@@ -30,3 +30,5 @@ The project follows a **Star Schema** architecture:
 - `gold.dim_dates` – Date attributes for time-based analysis  
 
 ## Screenshots
+
+![image alt](https://github.com/Gauravshukl/Sql-Data-Analytics-Project/blob/main/image/Screenshot%20(1).png)

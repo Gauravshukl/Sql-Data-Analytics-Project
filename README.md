@@ -1,15 +1,12 @@
 # 📊 SQL Data Warehouse Analytics Project
 
 A comprehensive collection of SQL scripts for **data exploration, analytics, and reporting** built on a **data warehouse (star schema) model**.  
-This project demonstrates practical, real-world SQL skills commonly used by **Data Analysts, Business Intelligence Analysts, and Analytics Engineers**.
 
 ---
 
 ## 🚀 Project Overview
 
 This repository contains a structured set of SQL scripts designed to answer common business questions related to **sales performance, customer behavior, product analysis, and revenue trends**.
-
-The project simulates a **production-style data warehouse environment** and focuses on writing **clean, readable, and optimized SQL queries** using best practices.
 
 ---
 

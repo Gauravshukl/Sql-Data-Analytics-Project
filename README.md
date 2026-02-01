@@ -29,6 +29,15 @@ The project follows a **Star Schema** architecture:
 - `gold.dim_customers` – Customer information  
 - `gold.dim_dates` – Date attributes for time-based analysis  
 
-## Screenshots
+## Screenshots (Some Screenshots of Project)
 
 ![image alt](https://github.com/Gauravshukl/Sql-Data-Analytics-Project/blob/main/image/Screenshot%20(1).png)
+
+![image alt](https://github.com/Gauravshukl/Sql-Data-Analytics-Project/blob/main/image/Screenshot%20(2).png)
+
+![image alt](https://github.com/Gauravshukl/Sql-Data-Analytics-Project/blob/main/image/Screenshot%20(3).png)
+
+![image alt](https://github.com/Gauravshukl/Sql-Data-Analytics-Project/blob/main/image/Screenshot%20(4).png)
+
+![image alt](https://github.com/Gauravshukl/Sql-Data-Analytics-Project/blob/main/image/Screenshot%20(5).png)
+
